@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://anomalouscoffeemachine3.com/sitemap.xml

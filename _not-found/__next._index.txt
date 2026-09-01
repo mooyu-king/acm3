@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[1133,[],""]
-3:I[4297,[],""]
-4:I[1453,["177","static/chunks/app/layout-509c6bd9c03c1e41.js"],""]
-:HL["/_next/static/css/23e560343a002b0c.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/23e560343a002b0c.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}],["$","$L4",null,{"src":"https://data.1back.link/js/app.js","data-api":"https://data.1back.link/api/send","data-domain":"anomalouscoffeemachine3.com","strategy":"afterInteractive"}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"7J7yHLNidOzqir0xkx7yp"}
+2:I[1453,["177","static/chunks/app/layout-462eff17bf1e124e.js"],""]
+3:I[1133,[],""]
+4:I[4297,[],""]
+:HL["/_next/static/css/6d92077f23f604e8.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6d92077f23f604e8.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","$L2",null,{"src":"https://pl31122369.profitableratecpmnetwork.com/88/25/31/8825315a23f862386a0932beb1988f52.js","strategy":"beforeInteractive"}]}],["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}],["$","$L2",null,{"src":"https://pl31122370.profitableratecpmnetwork.com/b1/15/3f/b1153f2845b01827b0b87f3ec17319d6.js","strategy":"afterInteractive"}],["$","$L2",null,{"src":"https://data.1back.link/js/app.js","data-api":"https://data.1back.link/api/send","data-domain":"anomalouscoffeemachine3.com","strategy":"afterInteractive"}]]}]]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"cTy7TURTY2QiWQSYg2UNC"}

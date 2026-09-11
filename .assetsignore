@@ -1,0 +1,12 @@
+# Cloudflare Static Assets 只应上传导出的站点文件。
+# out 同时也是独立 Git 部署仓库，因此必须排除仓库元数据。
+.git
+.git/**
+.github
+.github/**
+.wrangler
+.wrangler/**
+.gitignore
+README.md
+wrangler.jsonc
+.assetsignore

@@ -1,3 +1,3 @@
-:HL["/_next/static/css/05c231a118cf1a74.css","style"]
+:HL["/_next/static/css/7a9022be68ee516e.css","style"]
 :HL["/_next/static/css/926aa95afd2020ac.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"fusion-recipes","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"ieJvQARQWwNPgkgwaa3LP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"fusion-recipes","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"3vWj5NtLNtz3gvuwrIrB7"}

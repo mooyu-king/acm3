@@ -1,4 +1,4 @@
 :HL["/_next/static/css/fe4634255666d3e7.css","style"]
-:HL["/_next/static/css/76bfc03c0f72c992.css","style"]
+:HL["/_next/static/css/96aa3bf9c9567a12.css","style"]
 :HL["/_next/static/css/457d5e4fc25a5a1a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"anomalous-coffee-mechine-2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"034C-4ut1JaWSo8IInRAq"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"anomalous-coffee-mechine-2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"nV4ezkbRsLlgESj9WlDb7"}

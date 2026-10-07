@@ -1,4 +1,4 @@
 :HL["/_next/static/css/76d4a5c7b9df76ed.css","style"]
 :HL["/_next/static/css/f03adf4ead921818.css","style"]
 :HL["/_next/static/css/457d5e4fc25a5a1a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"anomaly-cafe","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ZF4K1O8tsUDV0r2TiTayx"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"anomaly-cafe","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"kRZ5tAZpzKFa_tFtTMyQ9"}

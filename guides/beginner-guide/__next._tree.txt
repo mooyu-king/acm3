@@ -1,4 +1,4 @@
 :HL["/_next/static/css/76d4a5c7b9df76ed.css","style"]
 :HL["/_next/static/css/1e3fa561874ded80.css","style"]
 :HL["/_next/static/css/457d5e4fc25a5a1a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"beginner-guide","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"e6I9avYr7rxO4K550lvbN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"guides","param":null,"prefetchHints":0,"slots":{"children":{"name":"beginner-guide","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"eG8CaxT-voulMcmGMtXQ0"}

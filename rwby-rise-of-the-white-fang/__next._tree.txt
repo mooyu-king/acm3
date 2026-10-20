@@ -1,4 +1,4 @@
 :HL["/_next/static/css/6dbca240604b73a1.css","style"]
 :HL["/_next/static/css/1e3fa561874ded80.css","style"]
 :HL["/_next/static/css/457d5e4fc25a5a1a.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"rwby-rise-of-the-white-fang","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5tJ4GGwd7NlDPrQmDHYmE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"rwby-rise-of-the-white-fang","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"g-a359zg7ltSAoa_40K02"}

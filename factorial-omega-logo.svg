@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+<title>Factorial Omega robot emblem</title><defs><linearGradient id="room" x2="1" y2="1"><stop stop-color="#080d21"/><stop offset="1" stop-color="#2b1745"/></linearGradient><linearGradient id="steel" x2="0" y2="1"><stop stop-color="#d6f9fa"/><stop offset="1" stop-color="#6c78aa"/></linearGradient></defs>
+<rect width="960" height="540" fill="url(#room)"/><path d="M0 385H960M0 425H960M0 481H960M120 540 386 327M330 540 448 327M640 540 517 327M853 540 579 327" fill="none" stroke="#435386" stroke-width="2" opacity=".45"/>
+<path d="M62 289V166l82-36v159m18 0V201h56v88m520 0V166h82v123m17 0V120l61 26v143" fill="#151935" stroke="#564170" stroke-width="2"/>
+<circle cx="480" cy="207" r="156" fill="#152344" stroke="#5664a3" stroke-width="2"/><circle cx="480" cy="207" r="140" fill="none" stroke="#7fe6de" stroke-width="2" stroke-dasharray="22 14"/>
+<path d="M317 335 364 282 431 268h98l67 14 47 53-55 27H372Z" fill="#2a395c" stroke="#8fa7c7" stroke-width="3"/>
+<path d="M458 250h44v45l-22 14-22-14Z" fill="#557699"/><path d="M373 143 410 104h140l37 39v78l-50 45H423l-50-45Z" fill="url(#steel)" stroke="#e6ffff" stroke-width="3"/>
+<path d="M389 155h182v55l-36 30H425l-36-30Z" fill="#101c36"/><path d="m421 181 37 3m44 0 37-3" stroke="#74ffe4" stroke-width="9" stroke-linecap="round"/><path d="M461 215h38" stroke="#b5f8f4" stroke-width="3" stroke-linecap="round"/>
+<path d="m542 102 28-39" stroke="#91aee5" stroke-width="5"/><circle cx="574" cy="59" r="8" fill="#ff92d1"/>
+<path d="m480 312 18 17-18 18-18-18Z" fill="#78ffe2"/><text x="480" y="428" fill="#f7f2ff" font-family="sans-serif" font-weight="800" font-size="51" letter-spacing="7" text-anchor="middle">FACTORIAL OMEGA</text><text x="480" y="471" fill="#a2dfdf" font-family="sans-serif" font-size="16" letter-spacing="6" text-anchor="middle">APARTMENT SURVIVAL SIM</text></svg>
